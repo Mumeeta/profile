@@ -1,0 +1,9 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+ 
+ .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #342e2e;
+    background-color: black !important;
+}

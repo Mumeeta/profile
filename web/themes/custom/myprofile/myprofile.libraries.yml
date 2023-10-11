@@ -1,0 +1,16 @@
+global-styling:
+  css:
+    theme:
+      css/bootstrap.css: {}
+      css/flexslider.css: {}
+      css/font-awsome.css: {}
+      css/templatemo_misc.css: {}
+      css/templatemo_slider.css: {}
+      css/templatemo_style.css: {}
+  js:
+  js/bootstrape.js: {}
+  js/main.js: {}
+  js/plugins.js: {}
+  js/vendor/jquery-1.11.0.min.js: {}
+  js/vendor/modernizr-2.6.1-respond-1.1.0.min.js: {}
+
